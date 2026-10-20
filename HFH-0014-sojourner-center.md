@@ -70,7 +70,7 @@ Someone looking for this resource might type any of the words below. Words taken
 **Legal help.** Also written as legal services. In plain words, talking to a lawyer.
 > Have support groups, donated items , food, living necessities, lay legal services on site to help navigate the system, pet services available, self-sufficiency workshops, financial literacy, workforce development, onsite access to community partners for SUD, MH and medical tx.
 
-*Other words people use for this kind of help: legal aid, free lawyer or attorney. They name the kind of help, not something this program has confirmed.*
+*Other words people use for this kind of help: legal aid. They name the kind of help, not something this program has confirmed.*
 
 **Family law.** In plain words, custody. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 

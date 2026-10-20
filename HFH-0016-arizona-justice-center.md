@@ -61,7 +61,7 @@ Someone looking for this resource might type any of the words below. Words taken
 **Legal help.** Also written as legal challenges or legal consultations. In plain words, talking to a lawyer.
 > Provides legal consultations in Arizona to those with limited access to resources.
 
-*Other words people use for this kind of help: legal aid, free lawyer or attorney. They name the kind of help, not something this program has confirmed.*
+*Other words people use for this kind of help: legal aid. They name the kind of help, not something this program has confirmed.*
 
 #### Benefits
 
