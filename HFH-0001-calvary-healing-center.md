@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0001 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Accepts individuals with legal histories and may accept those with sex offense in some of their programs.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported

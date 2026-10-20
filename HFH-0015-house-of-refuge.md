@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0015 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “No violent offenders, no arson or those with a history of sex offense allowed into program.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
