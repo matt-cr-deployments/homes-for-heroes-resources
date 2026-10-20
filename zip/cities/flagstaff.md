@@ -6,4 +6,4 @@ ZIP codes of the resources in Flagstaff: 86004.
 
 ## In Flagstaff
 
-- **[Native Americans for Community Action (NACA)](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6V2MCJF5T2CSVNRY38R0R)** — 1500 E Cedar Ave. Suite 56, 86004 · (928) 773-1245. ACMF's description says: "Veteran-Specific Therapy: Offers individual, couples, and family psychotherapy tailored to military culture."
+- **[Native Americans for Community Action (NACA)](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6V2MCJF5T2CSVNRY38R0R)** — 1500 E Cedar Ave. Suite 56, 86004 · (928) 773-1245. ACMF's description says: "Native Americans for Community Action (NACA) helps veterans by providing specialized medical care, behavioral health support, and benefit coordination services."

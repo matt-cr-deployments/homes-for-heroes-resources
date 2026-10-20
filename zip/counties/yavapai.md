@@ -6,12 +6,12 @@
 
 ### Prescott (2) — [Prescott page](../cities/prescott.md)
 
-- **[Compass Recovery Center — Housing and detox](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6QH8PYZJS3H957M2MYTJV)** — (800) 216-1840
+- **Compass Recovery Center** — (800) 216-1840
 - **[Royal Life Detox](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6XEB9GSVFS4XCF25M60ZS)** — (928) 756-0684
 
 ### Prescott Valley (1) — [Prescott Valley page](../cities/prescott-valley.md)
 
-- **[Oxford House — Housing and detox](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6W8QDQYQY7MA2ATT03TC3)** — (602) 463-0788
+- **Oxford House** — (602) 463-0788
 
 ## Based in another county, and listed by ACMF as serving Yavapai County (1)
 

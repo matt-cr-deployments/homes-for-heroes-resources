@@ -6,4 +6,4 @@ ZIP codes of the resources in Laveen Village: 85339.
 
 ## In Laveen Village
 
-- **[Our Home of Unity](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6VNM0R2YG2HA8NYCBYXJ6)** — 7019 S. 77th Lane, 85339 · (602) 799-2757. ACMF listed it as serving the whole state. ACMF's description says: "Accepts insurance They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing."
+- **[Our Home of Unity](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6VNM0R2YG2HA8NYCBYXJ6)** — 7019 S. 77th Lane, 85339 · (602) 799-2757. ACMF listed it as serving the whole state. ACMF's description says: "They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing."

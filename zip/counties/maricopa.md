@@ -30,6 +30,6 @@
 - **[Military Assistance Mission](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6S9H10WDEBX43W9B8MTZN)** — (602) 246-6429
 - **[Native American Connections](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6TFG1CSE79QMFMKV7FV36)** — (602) 254-3247
 - **[Recovery Empowerment Network](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6WVMMTRQCT7DVZ7H5X507)** — (602) 248-0368
-- **[STAR Stand Together and Recover Centers](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6Y18GXS6B4DHKYB3G4KFF)** — (602) 231-0071
+- **STAR (Stand Together and Recover) Centers** — (602) 231-0071
 - **[Sojourner Center](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6ZTN7NZZMB8CF9EFH8P11)** — (602) 244-0997
 - **[Vogue Recovery Center](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D710N74SVX97GF2D38Z6YF)** — (855) 628-2899
