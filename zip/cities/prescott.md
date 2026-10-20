@@ -6,5 +6,5 @@ ZIP codes of the resources in Prescott: 86303, 86305.
 
 ## In Prescott
 
-- **Compass Recovery Center** — 711 S Granite St, 86303 · (800) 216-1840. ACMF's description says: "Men and Women Sober Living Treatment and Transitional housing."
-- **[Royal Life Detox](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6XEB9GSVFS4XCF25M60ZS)** — 818 W. Gurley St., 86305 · (928) 756-0684. ACMF listed it as serving the whole state. ACMF's description says: "Royal Life Detox follows medication-assisted detox standards to treat withdrawal symptoms and make the process as comfortable as possible."
+- **[Compass Recovery Center](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5DACBPAKQ6QPRJX3W09KBAD)** — 711 S Granite St, 86303 · (800) 216-1840. ACMF's description says: "Men and Women Sober Living Treatment and Transitional housing."
+- **[Royal Life Detox](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5DAJ5TE1X4D3Z6CZ0B0GV41)** — 818 W. Gurley St., 86305 · (928) 756-0684. ACMF listed it as serving the whole state. ACMF's description says: "Royal Life Detox follows medication-assisted detox standards to treat withdrawal symptoms and make the process as comfortable as possible."

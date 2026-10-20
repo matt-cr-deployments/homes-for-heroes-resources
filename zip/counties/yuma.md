@@ -6,4 +6,4 @@
 
 ### Yuma (1) — [Yuma page](../cities/yuma.md)
 
-- **[Serenity Complex](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6YMC3QY00FPZX455ZEHW7)** — (602) 780-1442
+- **[Serenity Complex](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5DAKBDNEWHXVBFEMTRK3PW6)** — (602) 780-1442

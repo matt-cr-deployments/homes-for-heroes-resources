@@ -6,4 +6,4 @@
 
 ### Flagstaff (1) — [Flagstaff page](../cities/flagstaff.md)
 
-- **[Native Americans for Community Action (NACA)](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6V2MCJF5T2CSVNRY38R0R)** — (928) 773-1245
+- **[Native Americans for Community Action (NACA)](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5DAFT9SFZDYMYRXGPDPBG53)** — (928) 773-1245
