@@ -4,7 +4,7 @@ Twenty resources from the Arizona Coalition for Military Families' Be Connected 
 
 Each page separates three things and says which is which: what ACMF reported, what was worked out from the address they gave, and what words appear in their text. **No page states a level of care**, because ACMF's form never asked for one.
 
-**Looking for what is near someone?** [Resources by ZIP code](by-zip.md) lists, for each ZIP code, what is within 5 and 25 miles, nearest first.
+**Looking for what is near someone?** [Resources by ZIP code](zip/index.md) lists, for each ZIP code, what is within 5 and 25 miles, nearest first.
 
 | ID | Resource | Where | County |
 |---|---|---|---|
