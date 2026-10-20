@@ -62,7 +62,7 @@ Someone looking for this resource might type any of the words below. Words taken
 **Legal help.** Also written as legal services. In plain words, talking to a lawyer.
 > Have support groups, donated items , food, living necessities, lay legal services on site to help navigate the system, pet services available, self-sufficiency workshops, financial literacy, workforce development, onsite access to community partners for SUD, MH and medical tx.
 
-**Family law.** In plain words, custody. *ACMF filed the resource under this, but did not describe it.*
+**Family law.** In plain words, custody. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 #### Access
 
@@ -79,6 +79,6 @@ Someone looking for this resource might type any of the words below. Words taken
 Things this record cannot tell you, so they are worth a phone call:
 
 - Address is a PO box, so there is no physical location to measure from.
-- Flagged Statewide but only one county was listed (Maricopa). The Statewide flag is wrong on roughly half the export.
+- Listed as statewide, with one county named (Maricopa). Confirm the area served when you call.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

@@ -24,7 +24,7 @@ Faith based program with up to 12 months of supportive housing. Provide meals, c
 - **Topics ACMF filed it under:** Employment, Family & Social Supports, Housing & Homelessness and Spirituality
 - **Sub-topics:** Finding housing, Homelessness, Job search skills, Paths to employment, Relationships (spouses, significant others), Substance use and Transitional housing
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -54,7 +54,7 @@ Someone looking for this resource might type any of the words below. Words taken
 **Placement conditions.** Also written as curfew, pets or sex offense. In plain words, can he bring his dog, will they take him with his record.
 > No pets allowed.
 
-**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this, but did not describe it.*
+**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 #### Access
 
@@ -80,7 +80,7 @@ Someone looking for this resource might type any of the words below. Words taken
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
-- Flagged Statewide but only one county was listed (Maricopa). The Statewide flag is wrong on roughly half the export.
+- Cost not reported. Ask about cost when you call.
+- Listed as statewide, with one county named (Maricopa). Confirm the area served when you call.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

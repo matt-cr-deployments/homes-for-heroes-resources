@@ -32,7 +32,7 @@ Sack Lunch Program: Provides free daily meals to community members, including ve
 - **Topics ACMF filed it under:** Family & Social Supports, Housing & Homelessness, Mental Health & Substance Use and Physical Health
 - **Sub-topics:** Children (early childhood, elementary, adolescents), Co-occurring disorders (mental health/substance use), Depression/mood disorders, Domestic violence, Education, Finding housing, General mental health services, Mental health wellness, Other types of substance use and addiction, Overall family stress, Parenting, Relationships (spouses, significant others), Sexual trauma, Substance use and Suicide and crisis
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -60,9 +60,9 @@ Someone looking for this resource might type any of the words below. Words taken
 **PTSD and trauma.** Also written as PTSD or trauma. In plain words, nightmares, flashbacks.
 > This includes treatment for PTSD, readjustment issues, anxiety, and depression.
 
-**Crisis response.** Also written as crisis or suicide. In plain words, needs help right now. *ACMF filed the resource under this, but did not describe it.*
+**Crisis response.** Also written as crisis or suicide. In plain words, needs help right now. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
-**Military sexual trauma.** Also written as sexual trauma. In plain words, what happened to them in the service. *ACMF filed the resource under this, but did not describe it.*
+**Military sexual trauma.** Also written as sexual trauma. In plain words, what happened to them in the service. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 #### Benefits
 
@@ -81,13 +81,13 @@ Someone looking for this resource might type any of the words below. Words taken
 
 #### Access
 
-**Domestic violence.** In plain words, escaping abuse. *ACMF filed the resource under this, but did not describe it.*
+**Domestic violence.** In plain words, escaping abuse. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
+- Cost not reported. Ask about cost when you call.
 - Reported county (Yavapai) does not match the county the address falls in (Coconino).
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

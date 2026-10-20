@@ -56,13 +56,13 @@ Someone looking for this resource might type any of the words below. Words taken
 
 #### Housing
 
-**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this, but did not describe it.*
+**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Flagged Statewide but only one county was listed (Yavapai). The Statewide flag is wrong on roughly half the export.
+- Listed as statewide, with one county named (Yavapai). Confirm the area served when you call.
 - Resource name is a category, not a name. The organisation name is the only identifying label.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

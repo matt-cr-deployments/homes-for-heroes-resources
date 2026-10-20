@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0006 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Will consider those with a legal background on case by case basis, cannot accept those with sex offense history.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -23,7 +29,7 @@ Substance use treatment program with detox, residential treatment, aftercare and
 - **Topics ACMF filed it under:** Employment, Family & Social Supports and Mental Health & Substance Use
 - **Sub-topics:** Education, General mental health services, Job search skills, Mental health wellness, Overall family stress and Paths to employment
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -64,6 +70,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > Will consider those with a legal background on case by case basis, cannot accept those with sex offense history.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Has 50 residential treatment beds, 40 transitional beds.
 
@@ -81,7 +89,7 @@ Someone looking for this resource might type any of the words below. Words taken
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
+- Cost not reported. Ask about cost when you call.
 - Text mentions detox. Level of care was never reported by ACMF and must not be inferred.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

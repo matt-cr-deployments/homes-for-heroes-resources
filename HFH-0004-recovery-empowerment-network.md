@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0004 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Provides mental health and SUD treatment services to adults ages 18-25.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -24,7 +30,7 @@ Provides mental health and SUD treatment services to adults ages 18-25. Uses man
 - **Topics ACMF filed it under:** Employment and Mental Health & Substance Use
 - **Sub-topics:** General mental health services, Job search preparation (resume writing, interviewing), Job search skills and Mental health wellness
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -81,7 +87,7 @@ Someone looking for this resource might type any of the words below. Words taken
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
-- Flagged Statewide but only one county was listed (Maricopa). The Statewide flag is wrong on roughly half the export.
+- Cost not reported. Ask about cost when you call.
+- Listed as statewide, with one county named (Maricopa). Confirm the area served when you call.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

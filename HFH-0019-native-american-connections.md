@@ -6,6 +6,13 @@
 
 *Resource ID HFH-0019 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Have a wellness clinic and Patina SUD treatment center they can refer out to if needed.”
+- “They receive referrals from Dept of corrections however unable to accommodate those with a sex offense.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -56,19 +63,25 @@ Someone looking for this resource might type any of the words below. Words taken
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > They receive referrals from Dept of corrections however unable to accommodate those with a sex offense.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 #### Physical health
 
 **Medical care.** Also written as clinic. In plain words, seeing a doctor.
 > Have a wellness clinic and Patina SUD treatment center they can refer out to if needed.
+
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
 
 #### Substance use
 
 **Residential treatment.** Also written as treatment center. In plain words, going away to treatment.
 > Have a wellness clinic and Patina SUD treatment center they can refer out to if needed.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 #### Access
 
-**Tribal and Native-specific services.** Also written as Native American. In plain words, tribal services. *ACMF filed the resource under this, but did not describe it.*
+**Tribal and Native-specific services.** Also written as Native American. In plain words, tribal services. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 

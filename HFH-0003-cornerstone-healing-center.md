@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0003 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “They are unable to accommodate those with a sex offense history.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -23,7 +29,7 @@ Offers residential addiction and mental health treatment, partial hospitalizatio
 - **Topics ACMF filed it under:** Employment, Family & Social Supports, Finances & Benefits, Housing & Homelessness, Legal, Mental Health & Substance Use and Spirituality
 - **Sub-topics:** Benefits, Direct transportation assistance (e.g. provides transport to appointments), Education, Felony, Finding housing, General mental health services, Job search skills, Mental health wellness, Misdemeanor, Other and Transitional housing
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -64,7 +70,9 @@ Someone looking for this resource might type any of the words below. Words taken
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > They are unable to accommodate those with a sex offense history.
 
-**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this, but did not describe it.*
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
+**Transitional housing.** Also written as transitional. In plain words, temporary place. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 #### Benefits
 
@@ -83,14 +91,14 @@ Someone looking for this resource might type any of the words below. Words taken
 
 #### Legal
 
-**Reentry and justice-involved.** Also written as felony or misdemeanor. In plain words, just got out. *ACMF filed the resource under this, but did not describe it.*
+**Reentry and justice-involved.** Also written as felony or misdemeanor. In plain words, just got out. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
-- Flagged Statewide but only one county was listed (Maricopa). The Statewide flag is wrong on roughly half the export.
+- Cost not reported. Ask about cost when you call.
+- Listed as statewide, with one county named (Maricopa). Confirm the area served when you call.
 - Text mentions detox. Level of care was never reported by ACMF and must not be inferred.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

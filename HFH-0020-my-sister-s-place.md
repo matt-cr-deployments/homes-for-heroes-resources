@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0020 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Offers shared bathroom, kitchen , food pantry on site, weekly case management , rely on donations and fund raising, men and women, refer out for resources for substance , provide resources for mental health counseling,  no financial assistance at this time, reliant on donations .”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -52,10 +58,14 @@ Someone looking for this resource might type any of the words below. Words taken
 **Food assistance.** Also written as food pantry or pantry. In plain words, food box.
 > Offers shared bathroom, kitchen , food pantry on site, weekly case management , rely on donations and fund raising, men and women, refer out for resources for substance , provide resources for mental health counseling,  no financial assistance at this time, reliant on donations .
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as counseling. In plain words, someone to talk to.
 > Offers shared bathroom, kitchen , food pantry on site, weekly case management , rely on donations and fund raising, men and women, refer out for resources for substance , provide resources for mental health counseling,  no financial assistance at this time, reliant on donations .
+
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
 
 #### Physical health
 
@@ -64,11 +74,11 @@ Someone looking for this resource might type any of the words below. Words taken
 
 #### Access
 
-**Domestic violence.** In plain words, escaping abuse. *ACMF filed the resource under this, but did not describe it.*
+**Domestic violence.** In plain words, escaping abuse. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 #### Legal
 
-**Family law.** In plain words, custody. *ACMF filed the resource under this, but did not describe it.*
+**Family law.** In plain words, custody. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 

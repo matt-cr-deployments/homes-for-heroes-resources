@@ -22,7 +22,7 @@ Men and Women Sober Living Treatment and Transitional housing.
 - **Topics ACMF filed it under:** Family & Social Supports, Housing & Homelessness and Mental Health & Substance Use
 - **Sub-topics:** General mental health services, Other types of substance use and addiction, Substance use and Transitional housing
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -56,7 +56,7 @@ Someone looking for this resource might type any of the words below. Words taken
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
+- Cost not reported. Ask about cost when you call.
 - Resource name is a category, not a name. The organisation name is the only identifying label.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

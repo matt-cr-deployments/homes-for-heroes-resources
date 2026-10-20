@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0009 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Required Documentation: At intake, you must provide valid, non-expired identification and pass a breathalyzer or drug screening to demonstrate immediate sobriety.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported

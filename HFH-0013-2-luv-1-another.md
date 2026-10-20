@@ -6,6 +6,15 @@
 
 *Resource ID HFH-0013 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Transitional housing, 600 beds men and women, standard CM  refer out for CBI,  allows individuals with sex offense history, mostly level 1-2 , level 3 on case by case basis, work with Probation, parole.”
+- “Must be ADL independent, some home health allowed.”
+- “Refer out for mental health treatment, detox and acute SUD treatment.”
+- “Private pay and securing work is required.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -24,7 +33,7 @@ Offers low cost housing, case management, sober living, job referral and placeme
 - **Topics ACMF filed it under:** Employment, Housing & Homelessness and Legal
 - **Sub-topics:** Affordable housing programs, Felony, Homelessness, Job search preparation (resume writing, interviewing), Job search skills, Mental health wellness, Misdemeanor, Paths to employment and Transitional housing
 
-**Cost.** **Cost is not known.** ACMF's only answer was the catch-all option "May have cost, Free, Rent etc.", which covers 225 of the 458 resources in the export and does not tell a navigator anything. Ask about cost when you call.
+**Cost.** **Cost is not known.** ACMF's form recorded "May have cost, Free, Rent etc." for this resource. Ask about cost when you call.
 
 ### Where it is, and what that means for distance
 
@@ -49,8 +58,12 @@ Someone looking for this resource might type any of the words below. Words taken
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > Transitional housing, 600 beds men and women, standard CM  refer out for CBI,  allows individuals with sex offense history, mostly level 1-2 , level 3 on case by case basis, work with Probation, parole.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Transitional housing, 600 beds men and women, standard CM  refer out for CBI,  allows individuals with sex offense history, mostly level 1-2 , level 3 on case by case basis, work with Probation, parole.
+
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
 
 #### Substance use
 
@@ -60,20 +73,24 @@ Someone looking for this resource might type any of the words below. Words taken
 **Withdrawal management.** Also written as detox.
 > Refer out for mental health treatment, detox and acute SUD treatment.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 #### Legal
 
 **Reentry and justice-involved.** Also written as felony, misdemeanor, parole or probation. In plain words, just got out.
 > Transitional housing, 600 beds men and women, standard CM  refer out for CBI,  allows individuals with sex offense history, mostly level 1-2 , level 3 on case by case basis, work with Probation, parole.
 
+*Read this sentence closely: it may say the program sends people elsewhere for this, or doesn't offer it.*
+
 #### Employment
 
-**Employment services.** Also written as employment, job search or resume. In plain words, finding work. *ACMF filed the resource under this, but did not describe it.*
+**Employment services.** Also written as employment, job search or resume. In plain words, finding work. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 
 Things this record cannot tell you, so they are worth a phone call:
 
-- Cost not reported. ACMF's only value was 'May have cost, Free, Rent etc.', which is not an answer.
+- Cost not reported. Ask about cost when you call.
 - Text mentions detox. Level of care was never reported by ACMF and must not be inferred.
 
 **This directory never states a level of care.** ACMF's form never asked for one, so nobody can say from this record whether a program is detox, residential, outpatient, or sober living. The words above are the words in the description. A veteran in acute withdrawal sent to a sixty-day residential program that will not admit anyone still using is the exact harm this rule exists to prevent. **Call intake and ask.**

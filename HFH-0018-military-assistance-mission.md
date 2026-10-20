@@ -6,6 +6,12 @@
 
 *Resource ID HFH-0018 · from the Arizona Coalition for Military Families' Be Connected directory, export of 17 August 2026.*
 
+**Limits ACMF's description mentions:**
+
+- “Must have Honorable or General DC.”
+
+*Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
+
 ---
 
 ### What ACMF reported
@@ -52,7 +58,7 @@ Someone looking for this resource might type any of the words below. Words taken
 
 #### Housing
 
-**Eviction prevention and rental assistance.** Also written as eviction. In plain words, behind on rent. *ACMF filed the resource under this, but did not describe it.*
+**Eviction prevention and rental assistance.** Also written as eviction. In plain words, behind on rent. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
 ### Before you refer someone here
 
