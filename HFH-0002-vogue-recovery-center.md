@@ -50,22 +50,34 @@ Someone looking for this resource might type any of the words below. Words taken
 **Medication-assisted treatment.** Also written as MAT or medication assisted. In plain words, the shot, maintenance.
 > They use a variety of therapies and treatment approaches including medication Assisted Treatment (MAT).
 
+*Other words people use for this kind of help: medication for addiction treatment or medication for opioid use disorder. They name the kind of help, not something this program has confirmed.*
+
 **Outpatient treatment.** Also written as IOP, outpatient or partial hospitalization. In plain words, day program, classes, groups.
 > Treatment center that provides medical detox, residential treatment, partial hospitalization program, IOP, outpatient program, sober living, Veterans program, chronic pain program and alumni program.
+
+*Other words people use for this kind of help: intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
 
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Treatment center that provides medical detox, residential treatment, partial hospitalization program, IOP, outpatient program, sober living, Veterans program, chronic pain program and alumni program.
 
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
+
 **Residential treatment.** Also written as residential or treatment center. In plain words, going away to treatment.
 > Treatment center that provides medical detox, residential treatment, partial hospitalization program, IOP, outpatient program, sober living, Veterans program, chronic pain program and alumni program.
 
+*Other words people use for this kind of help: rehab or inpatient treatment. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox or medical detox. In plain words, detox.
 > Treatment center that provides medical detox, residential treatment, partial hospitalization program, IOP, outpatient program, sober living, Veterans program, chronic pain program and alumni program.
+
+*Other words people use for this kind of help: detoxing, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Employment
 
 **Employment services.** Also written as employment, job search or resume. In plain words, finding work.
 > Can assist with employment resume writing, job applications, applying for VA benefits.
+
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
@@ -76,6 +88,8 @@ Someone looking for this resource might type any of the words below. Words taken
 
 **Brain injury.** Also written as TBI. In plain words, memory problems.
 > Can accept those with TBI.
+
+*Other words people use for this kind of help: traumatic brain injury. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

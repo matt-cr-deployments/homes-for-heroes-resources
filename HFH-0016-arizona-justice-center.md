@@ -51,26 +51,38 @@ Someone looking for this resource might type any of the words below. Words taken
 **Family law.** Also written as guardianship. In plain words, custody.
 > They have experience handling landlord/tenant disputes and child guardianship issues.
 
+*Other words people use for this kind of help: divorce, child support or family court. They name the kind of help, not something this program has confirmed.*
+
 **Housing law.** Also written as landlord/tenant. In plain words, fighting an eviction.
 > They have experience handling landlord/tenant disputes and child guardianship issues.
 
+*Other words people use for this kind of help: eviction help, eviction defense, tenant rights or landlord problems. They name the kind of help, not something this program has confirmed.*
+
 **Legal help.** Also written as legal challenges or legal consultations. In plain words, talking to a lawyer.
 > Provides legal consultations in Arizona to those with limited access to resources.
+
+*Other words people use for this kind of help: legal aid, free lawyer or attorney. They name the kind of help, not something this program has confirmed.*
 
 #### Benefits
 
 **Food assistance.** Also written as SNAP. In plain words, food box.
 > They have a housing specialist, counseling resources, work with Project ID, can assist with applying for SNAP and assist Veterans with housing, employment, disability, pension and medical benefits.
 
+*Other words people use for this kind of help: food bank, food pantry, free food, groceries or meals. They name the kind of help, not something this program has confirmed.*
+
 #### Employment
 
 **Employment services.** Also written as employment or job search. In plain words, finding work.
 > They have a housing specialist, counseling resources, work with Project ID, can assist with applying for SNAP and assist Veterans with housing, employment, disability, pension and medical benefits.
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as counseling. In plain words, someone to talk to.
 > They have a housing specialist, counseling resources, work with Project ID, can assist with applying for SNAP and assist Veterans with housing, employment, disability, pension and medical benefits.
+
+*Other words people use for this kind of help: therapy, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

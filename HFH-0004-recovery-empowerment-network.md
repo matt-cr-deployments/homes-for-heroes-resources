@@ -57,11 +57,17 @@ Someone looking for this resource might type any of the words below. Words taken
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Uses many holistic approaches such as brainwave entrainment, meditation, visualization, light and sound therapy.
 
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
+
 **Crisis response.** Also written as crisis. In plain words, needs help right now.
 > Has a crisis diversion skills program called Hope's Door.
 
+*Other words people use for this kind of help: crisis help, crisis line or crisis support. They name the kind of help, not something this program has confirmed.*
+
 **PTSD and trauma.** Also written as PTSD. In plain words, nightmares, flashbacks.
 > Has a recovery center that holds many groups, PTSD support group, SMART recovery, Self Esteem group, Women's group, Art and Music etc.
+
+*Other words people use for this kind of help: trauma or trauma therapy. They name the kind of help, not something this program has confirmed.*
 
 #### Access
 
@@ -73,6 +79,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Employment services.** Also written as employment, job search or resume. In plain words, finding work.
 > Holds support events, and has peer support and peer support employment .
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Legal
 
 **Veterans treatment court.** Also written as diversion. In plain words, veterans court.
@@ -82,6 +90,8 @@ Someone looking for this resource might type any of the words below. Words taken
 
 **Peer recovery support.** Also written as peer support. In plain words, meetings, sponsor.
 > Holds support events, and has peer support and peer support employment .
+
+*Other words people use for this kind of help: recovery coach, peer mentor or recovery meetings. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

@@ -57,8 +57,12 @@ Someone looking for this resource might type any of the words below. Words taken
 **Counseling and therapy.** Also written as behavioral health or therapy. In plain words, someone to talk to.
 > Veteran-Specific Therapy: Offers individual, couples, and family psychotherapy tailored to military culture.
 
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
+
 **PTSD and trauma.** Also written as PTSD or trauma. In plain words, nightmares, flashbacks.
 > This includes treatment for PTSD, readjustment issues, anxiety, and depression.
+
+*Other words people use for this kind of help: trauma therapy. They name the kind of help, not something this program has confirmed.*
 
 **Crisis response.** Also written as crisis or suicide. In plain words, needs help right now. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*
 
@@ -69,6 +73,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Food assistance.** Also written as meals. In plain words, food box.
 > Sack Lunch Program: Provides free daily meals to community members, including veterans, on a first-come, first-served basis.
 
+*Other words people use for this kind of help: food bank, food pantry, free food or groceries. They name the kind of help, not something this program has confirmed.*
+
 #### Housing
 
 **Placement conditions.** Also written as couples. In plain words, can he bring his dog, will they take him with his record.
@@ -78,6 +84,8 @@ Someone looking for this resource might type any of the words below. Words taken
 
 **Medical care.** In plain words, seeing a doctor.
 > Native Americans for Community Action (NACA) helps veterans by providing specialized medical care, behavioral health support, and benefit coordination services.
+
+*Other words people use for this kind of help: doctor, clinic or primary care. They name the kind of help, not something this program has confirmed.*
 
 #### Access
 

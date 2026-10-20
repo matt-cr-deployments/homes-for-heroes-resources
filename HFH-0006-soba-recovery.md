@@ -56,14 +56,22 @@ Someone looking for this resource might type any of the words below. Words taken
 **Outpatient treatment.** Also written as IOP. In plain words, day program, classes, groups.
 > Substance use treatment program with detox, residential treatment, aftercare and IOP and sober living homes.
 
+*Other words people use for this kind of help: intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
+
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Substance use treatment program with detox, residential treatment, aftercare and IOP and sober living homes.
+
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
 
 **Residential treatment.** Also written as residential. In plain words, going away to treatment.
 > Substance use treatment program with detox, residential treatment, aftercare and IOP and sober living homes.
 
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Substance use treatment program with detox, residential treatment, aftercare and IOP and sober living homes.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
@@ -75,15 +83,21 @@ Someone looking for this resource might type any of the words below. Words taken
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Has 50 residential treatment beds, 40 transitional beds.
 
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
+
 #### Employment
 
 **Employment services.** Also written as employment or job search. In plain words, finding work.
 > Employment resources and assistance with.
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Uses various psychotherapies, 12 step and equine therapy.
+
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

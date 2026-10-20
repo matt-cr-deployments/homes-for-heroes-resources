@@ -65,13 +65,19 @@ Someone looking for this resource might type any of the words below. Words taken
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Access typically begins with an initial screening to ensure the participant is prepared for a supervised, sober living environment.
 
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Arizona Ave) for medically monitored detox and stabilization before moving to the Serenity Complex.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > The Serenity Complex in Yuma, Arizona, is a transitional housing program operated by Crossroads Mission.
+
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
 
 #### Legal
 

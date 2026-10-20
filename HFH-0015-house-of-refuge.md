@@ -51,6 +51,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Permanent supportive housing.** Also written as supportive housing. In plain words, own apartment with support.
 > Faith based program with up to 12 months of supportive housing.
 
+*Other words people use for this kind of help: PSH. They name the kind of help, not something this program has confirmed.*
+
 **Placement conditions.** Also written as curfew, pets or sex offense. In plain words, can he bring his dog, will they take him with his record.
 > No pets allowed.
 
@@ -66,15 +68,21 @@ Someone looking for this resource might type any of the words below. Words taken
 **Food assistance.** Also written as meals. In plain words, food box.
 > Provide meals, case management, career mentorship, life skills, Bible study, need to be able to work full-time.
 
+*Other words people use for this kind of help: food bank, food pantry, free food or groceries. They name the kind of help, not something this program has confirmed.*
+
 #### Employment
 
 **Employment services.** Also written as career, employers, employment or job search. In plain words, finding work.
 > Need to secure employment, remain clean and sober , can conduct random UAs and refer for SUD treatment.
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Spirituality
 
 **Faith-based programming.** Also written as bible study or faith based. In plain words, a church program.
 > Faith based program with up to 12 months of supportive housing.
+
+*Other words people use for this kind of help: faith-based, church program, ministry or spiritual support. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

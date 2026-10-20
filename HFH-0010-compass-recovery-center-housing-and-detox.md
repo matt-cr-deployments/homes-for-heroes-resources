@@ -47,10 +47,14 @@ Someone looking for this resource might type any of the words below. Words taken
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Men and Women Sober Living Treatment and Transitional housing.
 
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
+
 #### Substance use
 
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Men and Women Sober Living Treatment and Transitional housing.
+
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

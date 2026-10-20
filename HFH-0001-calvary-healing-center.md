@@ -50,14 +50,22 @@ Someone looking for this resource might type any of the words below. Words taken
 **Medication-assisted treatment.** Also written as medication assisted. In plain words, the shot, maintenance.
 > Has a detox program, medication assisted treatment and RNs available.
 
+*Other words people use for this kind of help: MAT, medication for addiction treatment or medication for opioid use disorder. They name the kind of help, not something this program has confirmed.*
+
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Residential and sober living treatment programs.
+
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
 
 **Residential treatment.** Also written as residential. In plain words, going away to treatment.
 > Residential and sober living treatment programs.
 
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Has a detox program, medication assisted treatment and RNs available.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
@@ -71,10 +79,14 @@ Someone looking for this resource might type any of the words below. Words taken
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Has a family program for family members to heal from the effects of addiction, includes family therapy with client and psychoeducation.
 
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
+
 #### Spirituality
 
 **Faith-based programming.** Also written as faith based. In plain words, a church program.
 > Has a faith based program for those seeking faith based treatment.
+
+*Other words people use for this kind of help: faith-based, church program, ministry or spiritual support. They name the kind of help, not something this program has confirmed.*
 
 #### Employment
 

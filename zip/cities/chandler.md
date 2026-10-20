@@ -1,0 +1,10 @@
+# Resources in Chandler, Arizona
+
+*Every resource ACMF filed with an address in Chandler, in alphabetical order. The town is the one ACMF reported. A resource based in another town is not listed in the first section, even if it serves the whole state. For distances, use the ZIP code pages. **This directory never states a level of care.** A sentence quoted below is what ACMF's description says, not a confirmed service; call intake and ask before referring.*
+
+ZIP codes of the resources in Chandler: 85226.
+
+## In Chandler
+
+- **My Sister's Place** — no street address reported · (480) 821-1024. ACMF's description says: "Offers shared bathroom, kitchen , food pantry on site, weekly case management , rely on donations and fund raising, men and women, refer out for resources for substance , provide resources for mental health counseling,  no financial assistance at this time, reliant on donations . … 30 beds, 120 day stay , community living shelter, with Catholic Charities ."
+- **Virtue Recovery Center** — 111 S Hearthstone Way, 85226 · (602) 932-0850. ACMF listed it as serving the whole state. ACMF's description says: "Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP."

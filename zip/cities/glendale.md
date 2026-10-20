@@ -1,0 +1,16 @@
+# Resources in Glendale, Arizona
+
+*Every resource ACMF filed with an address in Glendale, in alphabetical order. The town is the one ACMF reported. A resource based in another town is not listed in the first section, even if it serves the whole state. For distances, use the ZIP code pages. **This directory never states a level of care.** A sentence quoted below is what ACMF's description says, not a confirmed service; call intake and ask before referring.*
+
+ZIP codes of the resources in Glendale: 85301.
+
+## In Glendale
+
+- **Arizona Justice Center** — 5585 W Glenn Drive, 85301 · (623) 939-6546. ACMF listed it as serving the whole state. ACMF's description says: "They have experience handling landlord/tenant disputes and child guardianship issues."
+
+## Close by, but in another town
+
+Within 5 miles of at least one of the ZIP codes above, and filed by ACMF under another town. Check the town before calling it local.
+
+- **2 LUV 1 Another** — Phoenix. 2324 W Turney Ave · (602) 975-6859.
+- **Cornerstone Healing Center** — Phoenix. 4344 W Indian School Rd. #22 · (480) 334-7275.

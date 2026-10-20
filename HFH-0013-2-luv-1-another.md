@@ -70,6 +70,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Offers low cost housing, case management, sober living, job referral and placement.
 
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Refer out for mental health treatment, detox and acute SUD treatment.
 

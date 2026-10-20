@@ -49,10 +49,14 @@ Someone looking for this resource might type any of the words below. Words taken
 **Employment services.** Also written as employment. In plain words, finding work.
 > They create "contracts" to get mental health appts, take meds, seek employment and help each other with referrals, resources and support.
 
+*Other words people use for this kind of help: job help or job search. They name the kind of help, not something this program has confirmed.*
+
 #### Substance use
 
 **Recovery housing.** Also written as Oxford House or sober living. In plain words, sober house, halfway house.
 > Oxford House is a self-governing and cost-effective sober living environment that can aid in the transition of individuals following treatment and offer peer-based support and behavior modeling for drug and alcohol abstinence.
+
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 

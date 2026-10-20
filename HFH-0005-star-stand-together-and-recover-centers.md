@@ -49,21 +49,31 @@ Someone looking for this resource might type any of the words below. Words taken
 **Outpatient treatment.** Also written as outpatient. In plain words, day program, classes, groups.
 > Provides peer run support groups and has licensed outpatient Mental health Services for adults.
 
+*Other words people use for this kind of help: IOP, intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
+
 **Peer recovery support.** Also written as peer support. In plain words, meetings, sponsor.
 > Has a peer certification program for those looking to become a peer support, CPR and First aid training and employment readiness.
 
+*Other words people use for this kind of help: recovery coach, peer mentor or recovery meetings. They name the kind of help, not something this program has confirmed.*
+
 **Residential treatment.** Also written as inpatient. In plain words, going away to treatment.
 > Has a 90 day wraparound service program for those discharging from an inpatient psychiatry facility.
+
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
 
 #### Employment
 
 **Employment services.** Also written as career, employment, job search or job training. In plain words, finding work.
 > Has a peer certification program for those looking to become a peer support, CPR and First aid training and employment readiness.
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Psychiatry and medication management.** Also written as psychiatry. In plain words, getting on medication.
 > Has a 90 day wraparound service program for those discharging from an inpatient psychiatry facility.
+
+*Other words people use for this kind of help: medication management or psych meds. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

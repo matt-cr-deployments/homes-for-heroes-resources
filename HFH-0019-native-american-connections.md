@@ -57,8 +57,12 @@ Someone looking for this resource might type any of the words below. Words taken
 **Housing vouchers.** Also written as Section 8, VASH or vouchers. In plain words, the voucher.
 > Accepts section 8/HUD VASH vouchers.
 
+*Other words people use for this kind of help: housing voucher or HUD-VASH. They name the kind of help, not something this program has confirmed.*
+
 **Permanent supportive housing.** Also written as permanent supportive or supportive housing. In plain words, own apartment with support.
 > Offer permanent supportive housing to Veterans with case manager.
+
+*Other words people use for this kind of help: PSH. They name the kind of help, not something this program has confirmed.*
 
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > They receive referrals from Dept of corrections however unable to accommodate those with a sex offense.

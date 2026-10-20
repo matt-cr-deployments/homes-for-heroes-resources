@@ -50,14 +50,22 @@ Someone looking for this resource might type any of the words below. Words taken
 **Medication-assisted treatment.** Also written as medication assisted. In plain words, the shot, maintenance.
 > Accepts insurance They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing.
 
+*Other words people use for this kind of help: MAT, medication for addiction treatment or medication for opioid use disorder. They name the kind of help, not something this program has confirmed.*
+
 **Outpatient treatment.** Also written as outpatient. In plain words, day program, classes, groups.
 > Treatment center providing residential and outpatient care for substance use disorders and co-occurring mental health conditions.
+
+*Other words people use for this kind of help: IOP, intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
 
 **Residential treatment.** Also written as residential or treatment center. In plain words, going away to treatment.
 > Treatment center providing residential and outpatient care for substance use disorders and co-occurring mental health conditions.
 
+*Other words people use for this kind of help: rehab or inpatient treatment. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Accepts insurance They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
@@ -67,15 +75,21 @@ Someone looking for this resource might type any of the words below. Words taken
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Accepts insurance They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing.
 
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
+
 #### Benefits
 
 **Food assistance.** Also written as SNAP. In plain words, food box.
 > Can help with applying for SNAP and provide transportation.
 
+*Other words people use for this kind of help: food bank, food pantry, free food, groceries or meals. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Accepts insurance They offer detox, medication assisted therapy, 12 step programming, psychoeducation, biofeedback, holistic approaches, transitional housing.
+
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

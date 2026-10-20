@@ -50,8 +50,12 @@ Someone looking for this resource might type any of the words below. Words taken
 **Emergency shelter.** Also written as shelter. In plain words, a bed tonight.
 > 30 beds, 120 day stay , community living shelter, with Catholic Charities .
 
+*Other words people use for this kind of help: homeless shelter, overnight shelter or emergency housing. They name the kind of help, not something this program has confirmed.*
+
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > CM assist with placement to transitional or long term housing post stay.
+
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
 
 #### Benefits
 
@@ -71,6 +75,8 @@ Someone looking for this resource might type any of the words below. Words taken
 
 **Medical care.** Also written as medical services or urgent care. In plain words, seeing a doctor.
 > Victim advocate can help with legal resources ,  accompany to court, direct resident to urgent care for medical services , can provide resources for legal as they are often needed.
+
+*Other words people use for this kind of help: doctor, clinic or primary care. They name the kind of help, not something this program has confirmed.*
 
 #### Access
 

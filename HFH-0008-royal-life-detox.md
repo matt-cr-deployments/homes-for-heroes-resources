@@ -49,17 +49,27 @@ Someone looking for this resource might type any of the words below. Words taken
 **Medication-assisted treatment.** Also written as medication-assisted. In plain words, the shot, maintenance.
 > At Royal Life Detox follows medication-assisted detox standards to treat withdrawal symptoms and make the process as comfortable as possible.
 
+*Other words people use for this kind of help: MAT, medication for addiction treatment or medication for opioid use disorder. They name the kind of help, not something this program has confirmed.*
+
 **Outpatient treatment.** Also written as IOP or PHP. In plain words, day program, classes, groups.
 > They can then also continue treatment at the PHP, IOP, OP and sober living levels.
+
+*Other words people use for this kind of help: intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
 
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > They can then also continue treatment at the PHP, IOP, OP and sober living levels.
 
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
+
 **Residential treatment.** Also written as inpatient. In plain words, going away to treatment.
 > Guests can then enter their inpatient program to continue their recovery after detox.
 
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > At Royal Life Detox follows medication-assisted detox standards to treat withdrawal symptoms and make the process as comfortable as possible.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

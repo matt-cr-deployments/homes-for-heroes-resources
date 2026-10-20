@@ -51,14 +51,22 @@ Someone looking for this resource might type any of the words below. Words taken
 **Outpatient treatment.** Also written as IOP or partial hospitalization. In plain words, day program, classes, groups.
 > Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP.
 
+*Other words people use for this kind of help: intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
+
 **Recovery housing.** Also written as sober living. In plain words, sober house, halfway house.
 > Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP.
+
+*Other words people use for this kind of help: sober house, sober home, recovery residence or halfway house. They name the kind of help, not something this program has confirmed.*
 
 **Residential treatment.** Also written as residential. In plain words, going away to treatment.
 > Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP.
 
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox.
 > Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP.
+
+*Other words people use for this kind of help: detoxing, medical detox, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
@@ -68,10 +76,14 @@ Someone looking for this resource might type any of the words below. Words taken
 **Transitional housing.** Also written as transitional. In plain words, temporary place.
 > Has detox services, residential treatment, IOP, transitional housing, sober living homes, accepts court ordered treatment, partial hospitalization, IOP.
 
+*Other words people use for this kind of help: temporary housing or bridge housing. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Uses various forms of evidenced based therapy , individual, group, holistic.
+
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
 
 ### Before you refer someone here
 

@@ -1,6 +1,20 @@
-# Resources by ZIP code
+# Resources by ZIP code and by town
 
-Pick the ZIP code someone is in. Each page lists what is within 5 miles of it, nearest first, then what is within 25 miles.
+Pick the ZIP code someone is in. Each ZIP page lists what is within 5 miles of it, nearest first, then what is within 25 miles. Each town page lists what ACMF filed in that town.
+
+## By town
+
+- [Chandler](cities/chandler.md) — 2 in town
+- [Flagstaff](cities/flagstaff.md) — 1 in town
+- [Glendale](cities/glendale.md) — 1 in town
+- [Laveen Village](cities/laveen-village.md) — 1 in town
+- [Mesa](cities/mesa.md) — 1 in town
+- [Phoenix](cities/phoenix.md) — 10 in town
+- [Prescott](cities/prescott.md) — 2 in town
+- [Prescott Valley](cities/prescott-valley.md) — 1 in town
+- [Yuma](cities/yuma.md) — 1 in town
+
+## By ZIP code
 
 - [85003](85003.md) — 6 within 5 miles
 - [85004](85004.md) — 6 within 5 miles

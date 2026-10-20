@@ -56,6 +56,8 @@ Someone looking for this resource might type any of the words below. Words taken
 **Employment services.** Also written as career, employers or employment. In plain words, finding work.
 > Has some education scholarship and assistance programs and employers they partner with to hire Veterans.
 
+*Other words people use for this kind of help: job help or job search. They name the kind of help, not something this program has confirmed.*
+
 #### Housing
 
 **Eviction prevention and rental assistance.** Also written as eviction. In plain words, behind on rent. *ACMF filed the resource under this category. None of the words for it appear in the description, so there is no sentence to quote.*

@@ -56,16 +56,24 @@ Someone looking for this resource might type any of the words below. Words taken
 **Outpatient treatment.** Also written as IOP, outpatient or partial hospitalization. In plain words, day program, classes, groups.
 > Offers residential addiction and mental health treatment, partial hospitalization program, IOP, outpatient, virtual IOP, supportive housing, recovery coaching.
 
+*Other words people use for this kind of help: intensive outpatient or day treatment. They name the kind of help, not something this program has confirmed.*
+
 **Residential treatment.** Also written as residential. In plain words, going away to treatment.
 > Offers residential addiction and mental health treatment, partial hospitalization program, IOP, outpatient, virtual IOP, supportive housing, recovery coaching.
 
+*Other words people use for this kind of help: rehab, inpatient treatment or treatment center. They name the kind of help, not something this program has confirmed.*
+
 **Withdrawal management.** Also written as detox or medical detox. In plain words, detox.
 > They have a medical detox center.
+
+*Other words people use for this kind of help: detoxing, withdrawal or coming off alcohol or drugs. They name the kind of help, not something this program has confirmed.*
 
 #### Housing
 
 **Permanent supportive housing.** Also written as supportive housing. In plain words, own apartment with support.
 > Offers residential addiction and mental health treatment, partial hospitalization program, IOP, outpatient, virtual IOP, supportive housing, recovery coaching.
+
+*Other words people use for this kind of help: PSH. They name the kind of help, not something this program has confirmed.*
 
 **Placement conditions.** Also written as sex offense. In plain words, can he bring his dog, will they take him with his record.
 > They are unable to accommodate those with a sex offense history.
@@ -79,15 +87,21 @@ Someone looking for this resource might type any of the words below. Words taken
 **Food assistance.** Also written as SNAP. In plain words, food box.
 > Can assist with employment resources , transportation to appointments, obtaining ID, applying for SNAP benefits.
 
+*Other words people use for this kind of help: food bank, food pantry, free food, groceries or meals. They name the kind of help, not something this program has confirmed.*
+
 #### Employment
 
 **Employment services.** Also written as employment or job search. In plain words, finding work.
 > Can assist with employment resources , transportation to appointments, obtaining ID, applying for SNAP benefits.
 
+*Other words people use for this kind of help: job help. They name the kind of help, not something this program has confirmed.*
+
 #### Mental health
 
 **Counseling and therapy.** Also written as therapy. In plain words, someone to talk to.
 > Daily 12 step groups and different therapy treatment options.
+
+*Other words people use for this kind of help: counseling, talk therapy or mental health counseling. They name the kind of help, not something this program has confirmed.*
 
 #### Legal
 
