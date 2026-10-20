@@ -9,7 +9,6 @@
 **Limits ACMF's description mentions:**
 
 - “Offers shared bathroom, kitchen , food pantry on site, weekly case management , rely on donations and fund raising, men and women, refer out for resources for substance , provide resources for mental health counseling,  no financial assistance at this time, reliant on donations .”
-- “Legal history is not necessarily a disqualifier.”
 
 *Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
 

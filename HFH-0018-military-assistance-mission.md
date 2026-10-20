@@ -8,12 +8,7 @@
 
 **Limits ACMF's description mentions:**
 
-- “For Arizona Veterans post 9/11.”
-- “Active, Reserve, Guard or was an active duty Veteran.”
 - “Must have Honorable or General DC.”
-- “E-5 or below or Purples Heart recipients.”
-- “For veterans who were active duty.”
-- “Legal history is not necessarily a barrier to eligibility.”
 
 *Quoted as ACMF wrote it, and not confirmed with the program. Call intake and ask.*
 
