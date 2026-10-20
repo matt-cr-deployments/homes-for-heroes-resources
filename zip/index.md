@@ -1,6 +1,13 @@
-# Resources by ZIP code and by town
+# Resources by ZIP code, town and county
 
-Pick the ZIP code someone is in. Each ZIP page lists what is within 5 miles of it, nearest first, then what is within 25 miles. Each town page lists what ACMF filed in that town.
+Pick the ZIP code someone is in. Each ZIP page lists what is within 5 miles of it, nearest first, then what is within 25 miles. Each town page lists what ACMF filed in that town. Each county page lists names and phone numbers by town.
+
+## By county
+
+- [Coconino County](counties/coconino.md) — 1 based there
+- [Maricopa County](counties/maricopa.md) — 15 based there
+- [Yavapai County](counties/yavapai.md) — 3 based there
+- [Yuma County](counties/yuma.md) — 1 based there
 
 ## By town
 
