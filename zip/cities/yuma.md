@@ -6,4 +6,4 @@ ZIP codes of the resources in Yuma: 85364.
 
 ## In Yuma
 
-- **[Serenity Complex](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6YMC3QY00FPZX455ZEHW7)** — 244 S. 3rd Avenue, 85364 · (602) 780-1442. ACMF's description says: "Required Documentation: At intake, you must provide valid, non-expired identification and pass a breathalyzer or drug screening to demonstrate immediate sobriety. … Arizona Ave) for medically monitored detox and stabilization before moving to the Serenity Complex."
+- **[Serenity Complex](https://app.civicroundtable.com/portal/community/CO_01KYQ58JNK54RNNQTSDZQ1QZM5/resources?resourceId=RE_01M5D6YMC3QY00FPZX455ZEHW7)** — 244 S. 3rd Avenue, 85364 · (602) 780-1442. ACMF's description says: "Required Documentation: At intake, you must provide valid, non-expired identification and pass a breathalyzer or drug screening to demonstrate immediate sobriety. … Initial Point of Entry: Many participants start at the First Step Center (944 S. Arizona Ave) for medically monitored detox and stabilization before moving to the Serenity Complex."
